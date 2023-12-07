@@ -103,7 +103,3 @@ This will eventually be extended to support runtime Lua scripting in the future.
 
 ScyllaHide is included with Mod Engine 2 distributions and allows debugging games via native debuggers without worrying about evading anti-debug techniques using programs like Cheat Engine.
 Instead, you can use your favourite debugger (WinDbg, x64dbg, or even Cheat Engine without relying on VEH support).
-
-### Lua scripting
-
-**WIP**
