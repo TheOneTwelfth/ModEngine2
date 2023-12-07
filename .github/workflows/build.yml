@@ -99,4 +99,3 @@ jobs:
         with:
           name: 'modengine-${{ github.sha }}'
           path: '${{ env.CMAKE_BUILD_DIR }}/ModEngine-*-win64.*' # FIXME gtierney: run-cmake isn't respecting CMAKE_INSTALL_PREFIX
-        if: ${{ github.event_name == 'push' }}
